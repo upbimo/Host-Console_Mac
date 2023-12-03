@@ -1,4 +1,4 @@
-# Host-Console_Mac
+# Version 0.0.1
 
 
-host and console locator for mac os 
+# For Mac os
